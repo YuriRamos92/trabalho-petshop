@@ -1,0 +1,2 @@
+sdk.dir=/home/yurippe/Android/Sdk
+flutter.sdk=/opt/flutter
